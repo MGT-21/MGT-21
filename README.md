@@ -25,3 +25,5 @@
   <a href="https://www.linkedin.com/in/marcelloaugustosv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="https://www.instagram.com/_mgt21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  
 </div>
+
+<img src="https://raw.githubusercontent.com/MGT-21/MGT-21/output/snake.svg" alt="Snake animation" />
